@@ -5,11 +5,12 @@
     <meta charset="UTF-8">
     <title>Independants.co</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="Description">
+    <meta name="description"
+      content="Base de connaissance d'independants.co relative aux questions des indépendants concernant les mesures liées à la crise du coronavirus">
     <meta name="viewport"
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-    <link rel="stylesheet" href="../assets/style.css">
+    <!-- <link rel="stylesheet" href="../assets/style.css"> -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
@@ -22,13 +23,17 @@
 
         search: [
           '/accueil',
-          '/content/acces-indemnites-journalieres-maladie',
+          '/content/acces-indemnites-journalieres-maladie.md',
           '/content/fonds-solidarite',
         ],
 
         search: {
           maxAge: 86400000, // Expiration time, the default one day
-          paths: [], // or 'auto'
+          paths: [
+            '/accueil',
+            '/content/acces-indemnites-journalieres-maladie.md',
+            '/content/fonds-solidarite',
+          ], // or 'auto'
           placeholder: 'Taper votre recherche',
           noData: 'Pas de résultats',
 

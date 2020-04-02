@@ -8,7 +8,7 @@
 - Indemnités journalières
 
 [independants.co](https://www.independants.co/)
-[Get Started](#main)
+[Rechercher](#main)
 
 <!-- ![color](#E95A1C) -->
 
