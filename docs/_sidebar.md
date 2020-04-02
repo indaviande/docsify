@@ -4,6 +4,4 @@
 
   - [Fonds de Solidarité](content/fonds-solidarite.md 'Fonds de solidarité')
 
-  ACCÈS INDEMNITÉS JOURNALIÈRES/MALADIE
-
-  - [Guide](content/guide.md 'The greatest guide in the world')
+  - [Accès indemnités journalières/maladie](content/acces-indemnites-journalieres-maladie.md 'Accès indemnités journalières/maladie')

@@ -1,14 +1,13 @@
 ![logo](_media/icon.svg)
 
-# indépendants.co <small>3.5</small>
+# indépendants.co <small>0.1</small>
 
-> A magical documentation site generator.
+> A magical documentation for independants workers.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- Fonds de solidarité
+- Indemnités journalières
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[independants.co](https://independants.co/)
 [Get Started](#docsify)
 
 ![color](#E95A1C)
