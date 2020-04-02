@@ -32,6 +32,7 @@ Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 * les coordonnées bancaires de votre entreprise."
 
 
+
 ---
 
 ## Statut mixte
@@ -39,6 +40,7 @@ Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 ### Je suis salarié et auto-entrepreneur. Puis-je prétendre à une aide ?
 
 • Oui, si vous êtes salarié à temps partiel qu’il s’agisse d’un CDD ou d’un CDI.  • Non si vous êtes salarié à temps plein en mars 2020, que vous soyez en CDD ou en CDI.
+
 
 ---
 
