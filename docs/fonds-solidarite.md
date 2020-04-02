@@ -1,3 +1,8 @@
+---
+title: Fonds de solidarité
+date: 23 Mars 2020
+---
+
 # Fonds de solidarité
 
 > An awesome project.
