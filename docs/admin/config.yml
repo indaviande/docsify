@@ -2,11 +2,14 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
-media_folder: 'static/images/' # Media files will be stored in the repo under static/images/uploads
-public_folder: '/images/'
+media_folder: '_media' # Media files will be stored in the repo under static/images/uploads
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'pages'
+    label: 'Pages'
     folder: '/'
-    fields:
-      - { name: Title }
+    create: true
+    slug: '{{ slug }}'
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
