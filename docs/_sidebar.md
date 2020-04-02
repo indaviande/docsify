@@ -1,2 +1,3 @@
-- **[Home](/)**
+- **[Accueil](/)**
+- **[Fonds de Solidarité](fonds-solidarite.md 'Fonds de solidarité')**
 - **[Guide](guide.md 'The greatest guide in the world')**
