@@ -4,11 +4,11 @@ backend:
 publish_mode: editorial_workflow
 media_folder: '_media' # Media files will be stored in the repo under static/images/uploads
 collections:
-  - name: 'Homepage'
-    label: 'Homepage'
+  - name: 'Accueil'
+    label: 'Accueil'
     create: false # Allow users to create new documents in this collection
     files:
-      - label: 'Homepage'
+      - label: 'Accueil'
         name: 'home'
         file: 'docs/README.md'
         fields:
