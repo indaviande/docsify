@@ -1,7 +1,3 @@
----
-date: 2020-04-02T13:14:04.940Z
----
-
 # [Independants.co](independants.co/) - Base de Connaissance
 
 ## Before Starting
