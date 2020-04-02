@@ -1,0 +1,36 @@
+/**
+ * Webfonts
+ */
+@font-face {
+  font-family: 'protogrotesk-light';
+  src: url('fonts/protogroteskweb-light.eot');
+  src: url('fonts/protogroteskweb-light.eot?#iefix') format('embedded-opentype'),
+    url('fonts/protogroteskweb-light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'protoslab-bold';
+  src: url('fonts/protoslabweb-bold.eot');
+  src: url('fonts/protoslabweb-bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/protoslabweb-bold.woff') format('woff'),
+    url('fonts/protoslabweb-bold.woff2') format('woff2');
+  font-display: swap;
+}
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.25;
+  font-weight: normal;
+  margin: 1em 0;
+}
+
+.slab {
+  font-family: 'protoslab-bold', Helvetica, sans-serif;
+  font-weight: normal;
+  letter-spacing: -0.03em;
+}
+
+.orange {
+  color: #E95A1C;
+}
