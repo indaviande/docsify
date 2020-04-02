@@ -18,6 +18,30 @@
 
     <script>
       window.$docsify = {
+        search: 'auto', // default
+
+        search: [
+          '/content/accueil',
+          '/content/acces-indemnites-journalieres-maladie',
+          '/content/fonds-solidarite',
+        ],
+
+        search: {
+          maxAge: 86400000, // Expiration time, the default one day
+          paths: ['auto'], // or 'auto'
+          placeholder: 'Taper votre recherche',
+          noData: 'Pas de résultats',
+
+          // Headline depth, 1 - 6
+          depth: 2,
+
+          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+
+          // To avoid search index collision
+          // between multiple websites under the same domain
+          namespace: 'independants-co',
+        },
+
         name: '',
         repo: '',
         homepage: 'content/accueil.md',
@@ -29,7 +53,8 @@
       }
 
     </script>
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
@@ -42,9 +67,9 @@
       }
 
     </script>
-    <script src="plugins/search/search.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-mustache"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   </body>
 
 </html>
