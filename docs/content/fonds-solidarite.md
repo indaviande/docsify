@@ -5,6 +5,7 @@ date: 2020-04-02T13:08:35.378Z
 # Fonds de solidarité
 
 
+
 ### Dois-je déclarer le fonds de solidarité aux impôts ?
 
 Non : ce fonds est non imposable.
