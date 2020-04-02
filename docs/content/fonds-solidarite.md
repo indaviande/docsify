@@ -18,7 +18,9 @@ Oui, à condition que le montant de votre indemnisation soit égal ou inférieur
 
 #### Où faire sa demande d’aide ?
 
-Sur le site des impôts : https://www.impots.gouv.fr/portail/ Mode d'emploi pour faire la demande : https://www.impots.gouv.fr/portail/files/media/cabcom/covid19/fonds_soutien_pas_a_pas_tpe.pdf
+Sur le site des impôts : https://www.impots.gouv.fr/portail/ 
+
+Mode d'emploi pour faire la demande : https://www.impots.gouv.fr/portail/files/media/cabcom/covid19/fonds_soutien_pas_a_pas_tpe.pdf
 
 #### Dois-je renouveller ma demande d’aide chaque mois si le confinement continue ?
 
@@ -49,8 +51,6 @@ Cela dépend de la baisse de votre CA :
 
 * Si elle est supérieure ou égale à 1 500 euros, l’aide sera de 1 500 euros
 * Si elle est inférieure à 1 500 euros, l’aide sera égale au montant de la perte de votre chiffre d'affaires.
-
-
 
 #### J’ai créé mon entreprise après mars 2019 : à quelles aides puis-je prétendre ?
 
