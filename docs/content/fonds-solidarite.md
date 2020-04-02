@@ -18,8 +18,7 @@ Oui, à condition que le montant de votre indemnisation soit égal ou inférieur
 
 #### Où faire sa demande d’aide ?
 
-Sur le site des impôts : https://www.impots.gouv.fr/portail/ Mode d'emploi pour faire la demande :
-https://www.impots.gouv.fr/portail/files/media/cabcom/covid19/fonds_soutien_pas_a_pas_tpe.pdf
+Sur le site des impôts : https://www.impots.gouv.fr/portail/ Mode d'emploi pour faire la demande : https://www.impots.gouv.fr/portail/files/media/cabcom/covid19/fonds_soutien_pas_a_pas_tpe.pdf
 
 #### Dois-je renouveller ma demande d’aide chaque mois si le confinement continue ?
 
@@ -31,9 +30,7 @@ Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 * une estimation du montant de la perte de chiffre d'affaires 
 * les coordonnées bancaires de votre entreprise."
 
-
-
----
+- - -
 
 ## Statut mixte
 
@@ -41,8 +38,7 @@ Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 
 • Oui, si vous êtes salarié à temps partiel qu’il s’agisse d’un CDD ou d’un CDI.  • Non si vous êtes salarié à temps plein en mars 2020, que vous soyez en CDD ou en CDI.
 
-
----
+- - -
 
 ## Mode de calcul
 
@@ -62,6 +58,7 @@ Le simulateur de solidarité indépendant le fait pour vous :  https://solidarit
 
 #### Comment calculer le montant des aides auxquelles j’ai droit ?
 
-2 outils sont disponibles pour vous aider\
-• Le chatbot du portail auto-entrepreneurs : https://www.messenger.com/t/PortailAutoEntrepreneur
-• Le chatbot de Shine https://www.shine.fr/simulateur-fonds-solidarite/?fbclid=IwAR2a16pS8i3rfuSW7swTYf6D6CRJiz3UGBD_zn-B7yatxPiPIPa4CiCFBBk
+2 outils sont disponibles pour vous aider : 
+
+* Le chatbot du portail auto-entrepreneurs : https://www.messenger.com/t/PortailAutoEntrepreneur
+* Le chatbot de Shine https://www.shine.fr/simulateur-fonds-solidarite/?fbclid=IwAR2a16pS8i3rfuSW7swTYf6D6CRJiz3UGBD_zn-B7yatxPiPIPa4CiCFBBk
