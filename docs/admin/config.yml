@@ -6,7 +6,7 @@ media_folder: '_media' # Media files will be stored in the repo under static/ima
 collections:
   - name: 'pages'
     label: 'Pages'
-    folder: '../'
+    folder: 'docs'
     create: true
     slug: '{{ slug }}'
     fields: # The fields for each document, usually in front matter
