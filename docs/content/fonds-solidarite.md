@@ -36,7 +36,8 @@ Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 
 #### Je suis salarié et auto-entrepreneur. Puis-je prétendre à une aide ?
 
-• Oui, si vous êtes salarié à temps partiel qu’il s’agisse d’un CDD ou d’un CDI.  • Non si vous êtes salarié à temps plein en mars 2020, que vous soyez en CDD ou en CDI.
+* Oui, si vous êtes salarié à temps partiel qu’il s’agisse d’un CDD ou d’un CDI.
+* Non si vous êtes salarié à temps plein en mars 2020, que vous soyez en CDD ou en CDI.
 
 - - -
 
@@ -44,9 +45,12 @@ Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 
 #### Combien vais-je toucher si je suis éligible au fonds de solidarité ?
 
-Cela dépend de la baisse de votre CA :\
-• si elle est supérieure ou égale à 1 500 euros, l’aide sera de 1 500 euros\
-• si elle est inférieure à 1 500 euros, l’aide sera égale au montant de la perte de votre chiffre d'affaires.
+Cela dépend de la baisse de votre CA :
+
+* Si elle est supérieure ou égale à 1 500 euros, l’aide sera de 1 500 euros
+* Si elle est inférieure à 1 500 euros, l’aide sera égale au montant de la perte de votre chiffre d'affaires.
+
+
 
 #### J’ai créé mon entreprise après mars 2019 : à quelles aides puis-je prétendre ?
 
