@@ -4,11 +4,9 @@ date: 2020-04-02T13:14:04.940Z
 
 # [Independants.co](independants.co/) - Base de Connaissance
 
-===
-
 ## Before Starting
 
-- This project has been developped using Docsify, NetlifyCMS.
+- This project has been developped using Docsify, NetlifyCMS by [DoubleCat Studio](https://double.cat/).
 
 ## Getting Started
 
