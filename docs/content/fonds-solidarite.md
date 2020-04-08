@@ -34,6 +34,20 @@ Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 
 - - -
 
+## Type d'activité
+
+#### Dois-je me baser sur le code APE de mon entreprise ou celui de mes clients/prestataires ?
+
+C’est votre statut qui compte, pas celui de vos clients ou prestataires.\
+Si vous êtes indépendant, vous êtes concerné.
+
+#### Faut-il forcément recevoir du public être éligible à l’aide de 1500€ ?
+
+Non.\
+Initialement réservée aux secteurs hôtellerie, restauration, événementiel, l’aide a été étendue à tous les indépendants. 
+
+----
+
 ## Statut mixte
 
 #### Je suis salarié et auto-entrepreneur. Puis-je prétendre à une aide ?
