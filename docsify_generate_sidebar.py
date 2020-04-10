@@ -2,14 +2,17 @@
 This script generates a sidebar structure for Docsify (https://docsify.js.org/)
 projects. It's intended as a way to make the sidebar a little more
 straight-forward but the result will probably need some re-arranging.
+
 Usage:
 - Download this file to your project's directory
 - "cd" into that directory
 - Run "python3 generate_sidebar.py"
+
 The script will:
 - Generate a sidebar with links to all files, recursively
 - Generate an index file (prefix _i_) for each sub-folder, also accessible via
   sidebar
+
 Credits: Based on indaviande's script
 (https://github.com/docsifyjs/docsify/issues/610)
 """
@@ -17,10 +20,10 @@ Credits: Based on indaviande's script
 import os
 
 # Erase sidebar's content
-open('_sidebar.md', 'w').close()
+open('docs/_sidebar.md', 'w').close()
 
 
-def scan_dir(dir_path='.', level=0):
+def scan_dir(dir_path='./docs', level=0):
     """
     Look inside each directory in the project to see if there's anything good to
     add to the sidebar
