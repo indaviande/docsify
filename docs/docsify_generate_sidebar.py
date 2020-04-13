@@ -19,7 +19,7 @@ import os
 # Erase sidebar's content
 # open('_sidebar.md', 'w').close()
 
-def scan_dir(dir_path='docs/content', level=0, default_header=''):
+def scan_dir(dir_path='./docs/content', level=0, default_header=''):
     """
     Look inside each directory in the project to see if there's anything good to
     add to the sidebar
