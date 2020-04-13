@@ -1,5 +1,6 @@
 - [Accueil](/)
 - Pour démarrer
-  - [Fonds de Solidarité](content/fonds-solidarite.md 'Fonds de solidarité')
-  - [Accès indemnités journalières/maladie](content/acces-indemnites-journalieres-maladie.md 'Accès indemnités journalières/maladie')
-  - [Accès report des charges](content/acces-report-des-charges.md 'Accès report des charges')
+
+* [Fonds solidarite](./docs/content/fonds-solidarite.md)
+* [Acces indemnites journalieres maladie](./docs/content/acces-indemnites-journalieres-maladie.md)
+* [Acces report des charges](./docs/content/acces-report-des-charges.md)

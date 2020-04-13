@@ -2,17 +2,14 @@
 This script generates a sidebar structure for Docsify (https://docsify.js.org/)
 projects. It's intended as a way to make the sidebar a little more
 straight-forward but the result will probably need some re-arranging.
-
 Usage:
 - Download this file to your project's directory
 - "cd" into that directory
 - Run "python3 generate_sidebar.py"
-
 The script will:
 - Generate a sidebar with links to all files, recursively
 - Generate an index file (prefix _i_) for each sub-folder, also accessible via
   sidebar
-
 Credits: Based on indaviande's script
 (https://github.com/docsifyjs/docsify/issues/610)
 """
@@ -20,10 +17,9 @@ Credits: Based on indaviande's script
 import os
 
 # Erase sidebar's content
-open('docs/_sidebar.md', 'w').close()
+# open('_sidebar.md', 'w').close()
 
-
-def scan_dir(dir_path='./docs', level=0):
+def scan_dir(dir_path='./docs/content', level=0, default_header=''):
     """
     Look inside each directory in the project to see if there's anything good to
     add to the sidebar
@@ -82,14 +78,29 @@ def scan_dir(dir_path='./docs', level=0):
             entry_path = entry_path.replace(
                 entry_file_name, '_i_' + entry_file_name) + '.md'
 
+        # Open sidebar file for writing
+        sidebar_file = open('docs/_sidebar.md', 'a')
+
         # Write entry in the sidebar file
-        sidebar_file = open('_sidebar.md', 'a')
         entry_display_name = make_display_name_from_path(entry_path)
+
         sidebar_file.write(
             f"{'  ' * level}* [{entry_display_name}]({entry_path})\n")
+
+        # Save file
         sidebar_file.close()
 
     def execute():
+        if level == 0:
+            # Erase sidebar's content
+            open('docs/_sidebar.md', 'w').close()
+
+            # Write the default header
+            if default_header:
+                sidebar_file = open('docs/_sidebar.md', 'a')
+                sidebar_file.write(default_header)
+                sidebar_file.close()
+
         entries = [entry for entry in os.listdir(dir_path)]
         sublevel = level + 1
 
@@ -123,7 +134,19 @@ def scan_dir(dir_path='./docs', level=0):
     execute()
 
 
-# Start process
-scan_dir()
+# Define a section that is always going to be at the top of the sidebar. The
+# format is regular Markdown. Example:
+# default_header = '''
+# * [Home](./home.md)
+# * [Summary](./summary.md)
+# '''
+default_header = '''
+- [Accueil](/)
+- Pour démarrer
+'''
 
+# Start process
+scan_dir(default_header=default_header)
+
+# Time for a cold one
 print('✅ All done, cheers!')
