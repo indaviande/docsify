@@ -26,11 +26,34 @@ Mode d'emploi pour faire la demande : https://www.impots.gouv.fr/portail/files/m
 
 Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
 
+#### Les clients doivent-ils faire des attestations d’annulation de prestation ?
+
+Non, le fonds de solidarité est attribué sur une base déclarative.\
+C’est à dire que les impôts ne demandent pas de justificatifs.\
+Il suffit de renseigner les éléments suivants : SIREN, SIRET, RIB, chiffre d’affaires 2019 concerné par rapport au CA concerné 2020, montant de l’aide demandée, déclaration sur l’honneur.\
+Cependant, il ne faut pas faire une fausse déclaration car des contrôles seront faits a posteriori.
+
 #### Quels justificatifs va-t-on me demander pour bénéficier de l'aide ?
 
-* une déclaration sur l'honneur attestant que votre entreprise remplit les conditions prévues par le présent décret, l'exactitude des informations déclarées, ainsi que la régularité de sa situation fiscale et sociale au 1er mars 2020 
-* une estimation du montant de la perte de chiffre d'affaires 
-* les coordonnées bancaires de votre entreprise."
+- une déclaration sur l'honneur attestant que votre entreprise remplit les conditions prévues par le présent décret, l'exactitude des informations déclarées, ainsi que la régularité de sa situation fiscale et sociale au 1er mars 2020 
+- une estimation du montant de la perte de chiffre d'affaires 
+- les coordonnées bancaires de votre entreprise.
+
+#### J’ai réalisé ma demande “Fonds de solidarité” il y a plus d’une semaine et elle est toujours en attente de traitement. Comment faire évoluer la situation ?
+
+Consultez votre demande d’aide sur votre espace personnel des Impôts et assurez-vous de bien avoir renseigné le RIB/IBAN de votre entreprise.\
+En effet, les demandes accompagnées d’un RIB ou IBAN personnel ne sont pas traitées.\
+Voici la marche suivre pour relancer la procédure :
+* Effectuez une nouvelle demande, avec, cette fois, le RIB de votre société.
+* Vous pouvez éventuellement ajouter un commentaire en demandant à ce qu’on vous contacte
+* Une fois la nouvelle demande envoyée, celle-ci va engendrer un doublon informatique, qui va exiger un traitement humain du problème et donc une reprise de votre dossier
+* Ainsi, votre cas sera traité sous 7 à 8 jours et l’aide, versée sur votre compte professionnel.
+
+
+#### Dois-je renouveler ma demande d’aide chaque mois si le confinement continue ?
+
+Oui, sur le site des impôts : https://www.impots.gouv.fr/portail/
+
 
 - - -
 
@@ -72,11 +95,12 @@ Dans ce cas, l’aide de 1500 € se calcule sur le chiffre d’affaires mensuel
 
 #### Comment calculer le montant de ma baisse de CA ?
 
-Le simulateur de solidarité indépendant le fait pour vous :  https://solidarite-independant.fr/
+Le simulateur de solidarité indépendant vous permet de calculer votre baisse de CA : 
+https://solidarite-independant.fr/
+
 
 #### Comment calculer le montant des aides auxquelles j’ai droit ?
 
-2 outils sont disponibles pour vous aider : 
-
+2 outils sont disponibles pour vous aider :
 * Le chatbot du portail auto-entrepreneurs : https://www.messenger.com/t/PortailAutoEntrepreneur
-* Le chatbot de Shine https://www.shine.fr/simulateur-fonds-solidarite/?fbclid=IwAR2a16pS8i3rfuSW7swTYf6D6CRJiz3UGBD_zn-B7yatxPiPIPa4CiCFBBk
+* Le chatbot de Shine https://www.shine.fr/simulateur-fonds-solidarite/?fbclid=IwAR2a16pS8i3rfuSW7swTYf6D6CRJiz3UGBD_zn-B7yatxPiPIPa4CiCFBBk 
